@@ -1,32 +1,8 @@
 {
         "gmail_1": {
-        "nama": "kantorkapbdg",
-        "email": "kantorkapbdg@gmail.com",
-        "password": "hfxrijaatijhyajs"
-    },
-        "gmail_2": {
-        "nama": "kantorkapbandung",
-        "email": "kantorkapbandung@gmail.com",
-        "password": "bpduurpddiswqcui"
-    },
-        "gmail_3": {
-        "nama": "kantorakuntanbandung",
-        "email": "kantorakuntanbandung@gmail.com",
-        "password": "pdsdyuzhsiedrvxt"
-    },
-        "gmail_4": {
-        "nama": "kaphsebandung",
-        "email": "kaphsebandung@gmail.com",
-        "password": "bxpvsxbdufwimnmq"
-    },
-        "gmail_5": {
-        "nama": "kaphse.lpse",
-        "email": "kaphse.lpse@gmail.com",
-        "password": "feuihmnvujqacfqs"
-    },
-        "gmail_6": {
-        "nama": "kaphbabdg2022",
-        "email": "kaphbabdg2022@gmail.com",
-        "password": "jfwrhvcykumxafqf"
-    }
+        "nama": "email",
+        "email": "email@gmail.com",
+        "password": ""
+            },
+
 }
