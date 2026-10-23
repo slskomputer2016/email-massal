@@ -5,8 +5,8 @@ define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
 define('MAX_FILE_SIZE', 10 * 1024 * 1024);
 
-define('TELEGRAM_BOT_TOKEN', '8335324940:AAEEAiUSphGOo62l5rNHItNdpKcVy-FC9Cs');
-define('TELEGRAM_CHAT_ID', '-1003148974818');
+define('TELEGRAM_BOT_TOKEN', '');
+define('TELEGRAM_CHAT_ID', '');
 
 // Baca akun SMTP dari file JSON
 $fileSMTP = __DIR__ . '/smtp_accounts.json';
